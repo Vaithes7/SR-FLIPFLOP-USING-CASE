@@ -1,5 +1,7 @@
 # SR-FLIPFLOP-USING-CASE
 
+**DATE:** 30.10.2024
+
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
@@ -34,11 +36,11 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: BHARANI KUMAR RegisterNumber:24901064
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: VAITHESWARAN N RegisterNumber:24901212
 */
 ![Screenshot 2024-12-09 141739](https://github.com/user-attachments/assets/434edd86-7413-44d1-8b8b-e4423fade8b1)
 
